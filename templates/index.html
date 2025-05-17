@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Campus Navigation</title>
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+  <div class="container panel">
+    <h1 id="title">Campus Navigation</h1>
+
+    <div class="language-toggle">
+      <button onclick="setLanguage('en')">English</button>
+      <button onclick="setLanguage('ar')">العربية</button>
+    </div>
+
+    <label id="start-label" for="start">Start:</label>
+    <select id="start"></select>
+
+    <label id="end-label" for="end">Destination:</label>
+    <select id="end"></select>
+
+    <button id="find-button">Find Route</button>
+  </div>
+  
+  <!-- Metrics display -->
+  <div id="metrics" class="metrics"></div>
+
+  <script src="/static/script.js"></script>
+
+  <!-- Scrollable map & overlay -->
+  <div id="map-container">
+    <img id="campus-map" src="/static/gu map.jpg" alt="Campus Map">
+    <canvas id="map-canvas"></canvas>
+  </div>
+
+  <a href="https://www.gu.edu.eg" target="_blank">
+    <img src="/static/gu-logo.png" alt="Galala University Logo" class="gu-logo">
+  </a>
+
+
+</body>
+</html>

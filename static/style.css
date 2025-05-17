@@ -1,0 +1,132 @@
+
+body { margin:0; font-family:Arial,sans-serif; color:white; }
+
+#map-container {
+  position: relative;
+  width: 1277px;    /* fixed width   */
+  height: 724px;    /* fixed height  */
+  margin: 20px auto;
+  overflow: auto;
+  border: 2px solid rgba(255,255,255,0.5);
+  border-radius: 12px;
+}
+
+#campus-map {
+  display: block;
+  width: 1277px;  /* match container */
+  height: 724px;  /* match container */
+  object-fit: cover; /* ensures full coverage */
+}
+
+#map-canvas {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1277px;  /* match container */
+  height: 724px;  /* match container */
+  pointer-events: none;
+}
+
+.metrics {
+  width: 1277px;   /* align with map above */
+  margin: 10px auto;
+  background: rgba(0,0,0,0.6);
+  padding: 12px;
+  border-radius: 8px;
+  font-size: 14px;
+}
+
+
+
+body::before {
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background: url('14-scaled.jpg') no-repeat center center/cover;
+  opacity: 0.5;
+  z-index: -1;
+}
+
+label, #result, button, h1 {
+  color: white;
+  text-shadow: none;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.panel {
+  background-color: rgba(0, 0, 0, 0.7);
+  color: #ffffff;
+  border-radius: 16px;
+  padding: 30px;
+  max-width: 600px;
+  margin: 40px auto;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.5);
+}
+
+@media (max-width: 700px) {
+  .panel {
+    margin: 20px;
+    padding: 20px;
+  }
+}
+
+select, label {
+  color: #000000;
+}
+
+select {
+  background-color: rgba(255, 255, 255, 0.1);
+  color: black(0, 0, 0);
+  border: 1px solid #000000;
+  padding: 10px;
+  border-radius: 6px;
+  width: 100%;
+  font-size: 16px;
+}
+
+select:focus {
+  outline: none;
+  border-color: #007ACC;
+  box-shadow: 0 0 0 2px rgba(0, 122, 204, 0.3);
+}
+
+button {
+  padding: 10px 16px;
+  margin: 5px;
+  border: none;
+  background-color: #2e6fdb;
+  color: white;
+  font-weight: bold;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #1e52a3;
+}
+
+.gu-logo {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  width: 190px;
+  height: auto;
+  opacity: 0.8;
+  z-index: 999;
+  transition: transform 0.3s ease;
+}
+
+.gu-logo:hover {
+  transform: scale(1.1);
+  opacity: 1;
+}

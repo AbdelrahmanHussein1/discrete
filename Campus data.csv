@@ -1,0 +1,346 @@
+source,target,distance 1,time 1,distance 2,time 2
+Gate 5,Gate 1,1192.03,14.30436,"1,524.22",18.29064
+Gate 5,Men Dorm,160.26,1.92312,160.26,1.92312
+Gate 5,Faculty of Art and Design,86.77,1.04124,86.77,1.04124
+Gate 5,Faculty of Engineering,242.16,2.90592,242.16,2.90592
+Gate 5,Faculty of Food Industry,275.03,3.30036,275.03,3.30036
+Gate 5,Faculty of Media,458.51,5.50212,517.76,6.21312
+Gate 5,Auditorium 2,510.62,6.12744,478.21,5.73852
+Gate 5,Faculty Administrative Science,584.27,7.01124,562.77,6.75324
+Gate 5,Food Trucks,378.42,4.54104,366.28,4.39536
+Gate 5,Faculty Of Science,539.83,6.47796,512.36,6.14832
+Gate 5,Masjid,362.89,4.35468,362.89,4.35468
+Gate 5,Faculty Of Pharmacy,698.42,8.38104,861.79,10.34148
+Gate 5,Girls Dorm,878.29,10.53948,"1,233",14.796
+Gate 5,Uni Hospital,1071.11,12.85332,"1,159.10",13.9092
+Gate 5,Faculty Of Nursing,924.49,11.09388,"1,099.97",13.19964
+Gate 5,Faculty Of Applied Health,877.63,10.53156,889.58,10.67496
+Gate 5,Admission,652.82,7.83384,667.86,8.01432
+Gate 5,Faculty Of Physical Therapy,1049.3,12.5916,"1,466.07",17.59284
+Gate 5,Faculty Of Dentistry,1203.38,14.44056,"1,325.53",15.90636
+Gate 5,Faculty Medicine,1237.93,14.85516,"1,059.23",12.71076
+Gate 1,Gate 5,1192.03,14.30436,1524.22,18.29064
+Gate 1,Men Dorm,900.57,10.80684,"1,176",14.112
+Gate 1,Faculty of Art and Design,1109.91,13.31892,"1,441.36",17.29632
+Gate 1,Faculty of Engineering,1242.14,14.90568,"1,332.65",15.9918
+Gate 1,Faculty of Food Industry,798.87,9.58644,"1,065.85",12.7902
+Gate 1,Faculty of Media,926.3,11.1156,804.82,9.65784
+Gate 1,Auditorium 2,868.06,10.41672,743.01,8.91612
+Gate 1,Faculty Administrative Science,842.57,10.11084,695.86,8.35032
+Gate 1,Food Trucks,958.59,11.50308,845.29,10.14348
+Gate 1,Faculty Of Science,931.75,11.181,878.18,10.53816
+Gate 1,Masjid,798.87,9.58644,787.72,9.45264
+Gate 1,Faculty Of Pharmacy,577.91,6.93492,425.89,5.11068
+Gate 1,Girls Dorm,523.6,6.2832,523.6,6.2832
+Gate 1,Uni Hospital,106.78,1.28136,106.78,1.28136
+Gate 1,Faculty Of Nursing,194.77,2.33724,194.77,2.33724
+Gate 1,Faculty Of Applied Health,590.3,7.0836,532.52,6.39024
+Gate 1,Admission,741.54,8.89848,661.93,7.94316
+Gate 1,Faculty Of Physical Therapy,437.35,5.2482,437.35,5.2482
+Gate 1,Faculty Of Dentistry,302.66,3.63192,302.66,3.63192
+Gate 1,Faculty Medicine,72.46,0.86952,72.46,0.86952
+Faculty of Engineering,Gate 5,242.16,2.90592,242.16,2.90592
+Faculty of Engineering,Gate 1,1242.14,14.90568,"1,332.65",15.9918
+Faculty of Engineering,Faculty of Media,461.91,5.54292,554.08,6.64896
+Faculty of Engineering,Faculty Medicine,1389.47,16.67364,1224.31,14.69172
+Faculty of Engineering,Faculty of Art and Design,160.38,1.92456,160.38,1.92456
+Faculty of Engineering,Faculty Of Science,338.8,4.0656,695.76,8.34912
+Faculty of Engineering,Food Trucks,311.01,3.73212,493.98,5.92776
+Faculty of Engineering,Auditorium 2,497.6,5.9712,608.78,7.30536
+Faculty of Engineering,Faculty Of Food Industry,472.21,5.66652,414.55,4.9746
+Faculty of Engineering,Men Dorm,322.2,3.8664,322.2,3.8664
+Faculty of Engineering,Masjid,509.32,6.11184,535.94,6.43128
+Faculty of Engineering,Admission,569.09,6.82908,548.21,6.57852
+Faculty of Engineering,Faculty Administrative Science,492.5,5.91,661.46,7.93752
+Faculty of Engineering,Faculty Of Applied Health,681.28,8.17536,945.68,11.34816
+Faculty of Engineering,Faculty Of Physical Therapy,820.27,9.84324,1331.64,15.97968
+Faculty of Engineering,Faculty of Dentistry,987.65,11.8518,1382.73,16.59276
+Faculty of Engineering,Girls Dorm,1123.85,13.4862,1198.84,14.38608
+Faculty of Engineering,Uni Hospital,1058.54,12.70248,1135.66,13.62792
+Faculty of Engineering,Faculty Of Pharmacy,795.63,9.54756,1043.84,12.52608
+Faculty of Engineering,Faculty Of Nursing,1005.31,12.06372,1085.49,13.02588
+Faculty of Media,Men Dorm,315.55,3.7866,315.55,3.7866
+Faculty of Media,Faculty of Art and Design,591.44,7.09728,432,5.184
+Faculty of Media,Faculty of Engineering,461.91,5.54292,554.08,6.64896
+Faculty of Media,Faculty of Food Industry,238.06,2.85672,322.9,3.8748
+Faculty of Media,Faculty Medicine,824.55,9.8946,752.74,9.03288
+Faculty of Media,Auditorium 2,70.6,0.8472,70.6,0.8472
+Faculty of Media,Faculty Administrative Science,104.47,1.25364,104.47,1.25364
+Faculty of Media,Food Trucks,147.69,1.77228,109.25,1.311
+Faculty of Media,Faculty Of Science,242.86,2.91432,282.5,3.39
+Faculty of Media,Masjid,270.83,3.24996,270.83,3.24996
+Faculty of Media,Faculty Of Pharmacy,476.65,5.7198,386.02,4.63224
+Faculty of Media,Girls Dorm,677.6,8.1312,677.6,8.1312
+Faculty of Media,Uni Hospital,763.03,9.15636,763.03,9.15636
+Faculty of Media,Faculty Of Nursing,674.84,8.09808,646.29,7.75548
+Faculty of Media,Faculty Of Applied Health,518.21,6.21852,463.83,5.56596
+Faculty of Media,Admission,263.88,3.16656,242.65,2.9118
+Faculty of Media,Faculty Of Physical Therapy,677.07,8.12484,677.07,8.12484
+Faculty of Media,Faculty Of Dentistry,847.37,10.16844,790.7,9.4884
+Faculty of Media,Faculty Medicine,824.55,9.8946,752.74,9.03288
+Auditorium 2,Faculty Of Dentistry,813.5,9.762,742,8.904
+Auditorium 2,Faculty Of Applied Health,452.8,5.4336,421.25,5.055
+Auditorium 2,Faculty of Media,70.6,0.8472,70.6,0.8472
+Auditorium 2,Faculty Medicine,771.37,9.25644,704.43,8.45316
+Auditorium 2,Faculty Of Science,223.53,2.68236,230,2.76
+Auditorium 2,Faculty Of Nursing,561.43,6.73716,576.84,6.92208
+Auditorium 2,Faculty Of Pharmacy,368.1,4.4172,402.98,4.83576
+Auditorium 2,Faculty of Food Industry,254.73,3.05676,290,3.48
+Auditorium 2,Faculty Of Physical Therapy,629.47,7.55364,569.76,6.83712
+Auditorium 2,Faculty of Engineering,497.6,5.9712,608.78,7.30536
+Auditorium 2,Faculty of Art and Design,484.16,5.80992,621.79,7.46148
+Auditorium 2,Admission,175.92,2.11104,311.54,3.73848
+Auditorium 2,Faculty Administrative Science,54.6,0.6552,54.62,0.65544
+Food Trucks,Admission,160.01,1.92012,390.83,4.68996
+Food Trucks,Faculty of Media,147.69,1.77228,109.25,1.311
+Food Trucks,Faculty Medicine,839.93,10.07916,873.97,10.48764
+Food Trucks,Faculty Of Science,176.86,2.12232,283.87,3.40644
+Food Trucks,Faculty Of Nursing,642.58,7.71096,701.65,8.4198
+Food Trucks,Faculty Of Pharmacy,468.86,5.62632,450,5.4
+Food Trucks,Faculty of Food Industry,176.29,2.11548,176.29,2.11548
+Food Trucks,Faculty Of Physical Therapy,677.15,8.1258,617.24,7.40688
+Food Trucks,Faculty of Engineering,311.01,3.73212,493.98,5.92776
+Food Trucks,Faculty of Art and Design,364.76,4.37712,418.47,5.02164
+Food Trucks,Faculty Of Applied Health,510.47,6.12564,475.88,5.71056
+Food Trucks,Faculty of Dentistry,875,10.5,784.58,9.41496
+Food Trucks,Faculty Administrative Science,140,1.68,200.36,2.40432
+Faculty Of Science,Faculty of Media,242.86,2.91432,282.5,3.39
+Faculty Of Science,Faculty Medicine,827.77,9.93324,856.33,10.27596
+Faculty Of Science,Faculty Of Applied Health,330.29,3.96348,410.54,4.92648
+Faculty Of Science,Faculty Of Physical Therapy,479.62,5.75544,640.58,7.68696
+Faculty Of Science,Faculty Of Dentistry,630.75,7.569,811.54,9.73848
+Faculty Of Science,Men Dorm,387,4.644,387,4.644
+Faculty Of Science,Faculty of Food Industry,341.68,4.10016,538.2,6.4584
+Faculty Of Science,Auditorium 2,223.53,2.68236,230,2.76
+Faculty Of Science,Faculty Administrative Science,240,2.88,294.37,3.53244
+Faculty Of Science,Food Trucks,176.86,2.12232,283.87,3.40644
+Faculty Of Science,Masjid,408.6,4.9032,464.5,5.574
+Faculty Of Science,Faculty Of Pharmacy,450,5.4,405.12,4.86144
+Faculty Of Science,Girls Dorm,742,8.904,773.18,9.27816
+Faculty Of Science,Uni Hospital,723.11,8.67732,812.68,9.75216
+Faculty Of Science,Faculty Of Nursing,646.42,7.75704,603,7.236
+Faculty Of Science,Faculty of Engineering,338.8,4.0656,695.76,8.34912
+Faculty Of Science,Faculty of Art and Design,498.91,5.98692,520.29,6.24348
+Faculty Of Science,Admission,178.55,2.1426,354.4,4.2528
+Masjid,Faculty of Media,270.83,3.24996,270.83,3.24996
+Masjid,Faculty Medicine,793.4,9.5208,752.99,9.03588
+Masjid,Faculty Of Science,408.6,4.9032,464.5,5.574
+Masjid,Faculty Of Nursing,579.07,6.94884,555.42,6.66504
+Masjid,Faculty Of Pharmacy,386.57,4.63884,459.37,5.51244
+Masjid,Faculty of Food Industry,137.51,1.65012,137.51,1.65012
+Masjid,Faculty Of Physical Therapy,762.38,9.14856,763.86,9.16632
+Masjid,Faculty of Art and Design,389.21,4.67052,389.21,4.67052
+Masjid,Faculty Of Applied Health,598.76,7.18512,598.76,7.18512
+Masjid,Faculty Of Dentistry,984.48,11.81376,918.78,11.02536
+Masjid,Admission,346.01,4.15212,346.01,4.15212
+Masjid,Faculty Administrative Science,260.32,3.12384,260.32,3.12384
+Masjid,Faculty of Engineering,509.32,6.11184,656.22,7.87464
+Faculty Of Pharmacy,Faculty of Engineering,847.94,10.17528,855.82,10.26984
+Faculty Of Pharmacy,Admission,159.74,1.91688,163.33,1.95996
+Faculty Of Pharmacy,Faculty of Media,476.65,5.7198,386.02,4.63224
+Faculty Of Pharmacy,Faculty Medicine,397.94,4.77528,437.25,5.247
+Faculty Of Pharmacy,Faculty Of Science,450,5.4,405.12,4.86144
+Faculty Of Pharmacy,Faculty of Art and Design,774.87,9.29844,774.87,9.29844
+Faculty Of Pharmacy,Faculty Of Applied Health,271.64,3.25968,284.18,3.41016
+Faculty Of Pharmacy,Faculty Of Physical Therapy,260.7,3.1284,260.7,3.1284
+Faculty Of Pharmacy,Men Dorm,604.05,7.2486,604.05,7.2486
+Faculty Of Pharmacy,Faculty of Food Industry,500.83,6.00996,500.83,6.00996
+Faculty Of Pharmacy,Auditorium 2,368.1,4.4172,402.98,4.83576
+Faculty Of Pharmacy,Faculty Administrative Science,318.62,3.82344,371.7,4.4604
+Faculty Of Pharmacy,Food Trucks,468.86,5.62632,450,5.4
+Faculty Of Pharmacy,Masjid,386.57,4.63884,459.37,5.51244
+Faculty Of Pharmacy,Girls Dorm,495.3,5.9436,495.3,5.9436
+Faculty Of Pharmacy,Uni Hospital,295.93,3.55116,295.93,3.55116
+Girls Dorm,Faculty Of Applied Health,664.51,7.97412,590.24,7.08288
+Girls Dorm,Faculty of Engineering,1123.85,13.4862,1198.84,14.38608
+Girls Dorm,Faculty of Art and Design,880.08,10.56096,880.08,10.56096
+Girls Dorm,Faculty of Media,677.6,8.1312,677.6,8.1312
+Girls Dorm,Faculty Medicine,593.17,7.11804,593.17,7.11804
+Girls Dorm,Faculty Of Science,742,8.904,773.18,9.27816
+Girls Dorm,Faculty Of Nursing,411.8,4.9416,411.8,4.9416
+Girls Dorm,Faculty Of Pharmacy,495.3,5.9436,495.3,5.9436
+Girls Dorm,Faculty of Food Industry,803,9.636,803,9.636
+Girls Dorm,Faculty Of Physical Therapy,565.85,6.7902,690.51,8.28612
+Girls Dorm,Faculty Of Dentistry,690,8.28,690,8.28
+Girls Dorm,Admission,514.88,6.17856,514.88,6.17856
+Girls Dorm,Faculty Administrative Science,641.81,7.70172,659.83,7.91796
+Uni Hospital,Faculty of Engineering,1058.54,12.70248,1135.66,13.62792
+Uni Hospital,Faculty of Art and Design,954.26,11.45112,735.84,8.83008
+Uni Hospital,Faculty Of Applied Health,414.51,4.97412,502.16,6.02592
+Uni Hospital,Faculty Of Dentistry,326.74,3.92088,312,3.744
+Uni Hospital,Admission,485.65,5.8278,485.65,5.8278
+Uni Hospital,Faculty Administrative Science,580,6.96,580,6.96
+Uni Hospital,Faculty of Media,763.03,9.15636,763.03,9.15636
+Uni Hospital,Faculty Medicine,116.1,1.3932,116.1,1.3932
+Uni Hospital,Faculty Of Science,723.11,8.67732,812.68,9.75216
+Uni Hospital,Faculty Of Nursing,79.12,0.94944,79.12,0.94944
+Uni Hospital,Faculty Of Pharmacy,295.93,3.55116,295.93,3.55116
+Uni Hospital,Faculty of Food Industry,735.84,8.83008,735.84,8.83008
+Uni Hospital,Faculty Of Physical Therapy,351.62,4.21944,474.61,5.69532
+Faculty Of Nursing,Faculty of Media,674.84,8.09808,646.29,7.75548
+Faculty Of Nursing,Faculty Medicine,179.81,2.15772,179.81,2.15772
+Faculty Of Nursing,Faculty Of Science,646.42,7.75704,603,7.236
+Faculty Of Nursing,Faculty Of Dentistry,358.81,4.30572,371.8,4.4616
+Faculty Of Nursing,Faculty Of Applied Health,331.83,3.98196,423.02,5.07624
+Faculty Of Nursing,Faculty Of Physical Therapy,300.62,3.60744,403.5,4.842
+Faculty Of Nursing,Men Dorm,813.9,9.7668,813.9,9.7668
+Faculty Of Nursing,Faculty of Food Industry,708.74,8.50488,708.74,8.50488
+Faculty Of Nursing,Auditorium 2,561.43,6.73716,576.84,6.92208
+Faculty Of Nursing,Faculty Administrative Science,523.79,6.28548,628.41,7.54092
+Faculty Of Nursing,Food Trucks,642.58,7.71096,701.65,8.4198
+Faculty Of Nursing,Masjid,579.07,6.94884,555.42,6.66504
+Faculty Of Nursing,Girls Dorm,411.8,4.9416,411.8,4.9416
+Faculty Of Nursing,Uni Hospital,79.12,0.94944,79.12,0.94944
+Faculty Of Nursing,Faculty of Engineering,1005.31,12.06372,1085.49,13.02588
+Faculty Of Nursing,Faculty of Art and Design,896.88,10.76256,896.88,10.76256
+Faculty Of Applied Health,Faculty of Dentistry,313.85,3.7662,498.8,5.9856
+Faculty Of Applied Health,Faculty of Media,518.21,6.21852,463.83,5.56596
+Faculty Of Applied Health,Faculty Medicine,516.73,6.20076,643.21,7.71852
+Faculty Of Applied Health,Faculty Of Science,330.29,3.96348,410.54,4.92648
+Faculty Of Applied Health,Faculty Of Nursing,331.83,3.98196,423.02,5.07624
+Faculty Of Applied Health,Faculty Of Pharmacy,271.64,3.25968,284.18,3.41016
+Faculty Of Applied Health,Faculty Of Physical Therapy,146.48,1.75776,146.48,1.75776
+Faculty Of Applied Health,Men Dorm,687,8.244,626.47,7.51764
+Faculty Of Applied Health,Masjid,598.76,7.18512,598.76,7.18512
+Faculty Of Applied Health,Faculty of Food Industry,648.37,7.78044,710.44,8.52528
+Faculty Of Applied Health,Auditorium 2,452.8,5.4336,421.25,5.055
+Faculty Of Applied Health,Faculty Administrative Science,450,5.4,376.02,4.51224
+Faculty Of Applied Health,Food Trucks,510.47,6.12564,475.88,5.71056
+Faculty Of Applied Health,Uni Hospital,414.51,4.97412,502.16,6.02592
+Faculty Of Applied Health,Girls Dorm,664.51,7.97412,590.24,7.08288
+Faculty Of Applied Health,Faculty of Engineering,681.28,8.17536,945.68,11.34816
+Faculty Of Applied Health,Faculty of Art and Design,814.51,9.77412,824.16,9.88992
+Faculty Of Applied Health,Admission,183.05,2.1966,183.05,2.1966
+Admission,Faculty Of Nursing,404.41,4.85292,339.04,4.06848
+Admission,Faculty of Media,263.88,3.16656,242.65,2.9118
+Admission,Faculty Medicine,605.8,7.2696,579.25,6.951
+Admission,Faculty of Engineering,569.09,6.82908,548.21,6.57852
+Admission,Faculty Of Science,178.55,2.1426,354.4,4.2528
+Admission,Faculty Administrative Science,170.4,2.0448,170.4,2.0448
+Admission,Faculty of Pharmacy,159.74,1.91688,163.33,1.95996
+Admission,Faculty of Food Industry,361.69,4.34028,457.2,5.4864
+Admission,Men Dorm,493.29,5.91948,493.29,5.91948
+Admission,Faculty Of Physical Therapy,311.5,3.738,403.33,4.83996
+Admission,Faculty Of Dentistry,446.88,5.36256,563.2,6.7584
+Admission,Masjid,346.01,4.15212,346.01,4.15212
+Admission,Girls Dorm,514.88,6.17856,514.88,6.17856
+Admission,Auditorium 2,175.92,2.11104,311.54,3.73848
+Admission,Food Trucks,160.01,1.92012,390.83,4.68996
+Admission,Uni Hospital,485.65,5.8278,485.65,5.8278
+Admission,Faculty Of Applied Health,183.05,2.1966,183.05,2.1966
+Faculty Of Physical Therapy,Faculty of Engineering,820.27,9.84324,1331.64,15.97968
+Faculty Of Physical Therapy,Faculty of Art and Design,953.2,11.4384,962.19,11.54628
+Faculty Of Physical Therapy,Faculty Of Applied Health,146.48,1.75776,146.48,1.75776
+Faculty Of Physical Therapy,Faculty Of Dentistry,173.77,2.08524,173.77,2.08524
+Faculty Of Physical Therapy,Admission,311.5,3.738,403.33,4.83996
+Faculty Of Physical Therapy,Faculty of Media,677.07,8.12484,677.07,8.12484
+Faculty Of Physical Therapy,Faculty Medicine,367.73,4.41276,393.55,4.7226
+Faculty Of Physical Therapy,Faculty Of Science,479.62,5.75544,640.58,7.68696
+Faculty Of Physical Therapy,Faculty Of Nursing,300.62,3.60744,403.5,4.842
+Faculty Of Physical Therapy,Faculty Of Pharmacy,260.7,3.1284,260.7,3.1284
+Faculty Of Physical Therapy,Faculty of Food Industry,812.84,9.75408,750.7,9.0084
+Faculty Of Physical Therapy,Faculty Administrative Science,620,7.44,622,7.464
+Faculty Of Physical Therapy,Men Dorm,851,10.212,851,10.212
+Faculty Of Physical Therapy,Auditorium 2,629.47,7.55364,569.76,6.83712
+Faculty Of Physical Therapy,Food Trucks,677.15,8.1258,617.24,7.40688
+Faculty Of Physical Therapy,Masjid,762.38,9.14856,763.86,9.16632
+Faculty Of Physical Therapy,Girls Dorm,565.85,6.7902,690.51,8.28612
+Faculty Of Physical Therapy,Uni Hospital,351.62,4.21944,474.61,5.69532
+Faculty Of Dentistry,Faculty of Engineering,987.65,11.8518,1382.73,16.59276
+Faculty Of Dentistry,Faculty of Art and Design,1122.42,13.46904,1226.82,14.72184
+Faculty Of Dentistry,Faculty Of Applied Health,313.85,3.7662,498.8,5.9856
+Faculty Of Dentistry,Faculty Of Physical Therapy,173.77,2.08524,173.77,2.08524
+Faculty Of Dentistry,Men Dorm,1045,12.54,1045,12.54
+Faculty Of Dentistry,Masjid,984.48,11.81376,918.78,11.02536
+Faculty Of Dentistry,Faculty of Food Industry,1000.41,12.00492,908,10.896
+Faculty Of Dentistry,Uni Hospital,326.74,3.92088,312,3.744
+Faculty Of Dentistry,Girls Dorm,690,8.28,690,8.28
+Faculty Of Dentistry,Auditorium 2,813.5,9.762,742,8.904
+Faculty Of Dentistry,Faculty Administrative Science,810,9.72,810,9.72
+Faculty Of Dentistry,Food Trucks,875,10.5,784.58,9.41496
+Faculty Of Dentistry,Admission,446.88,5.36256,563.2,6.7584
+Faculty Of Dentistry,Faculty of Media,847.37,10.16844,790.7,9.4884
+Faculty Of Dentistry,Faculty Medicine,227.69,2.73228,227.69,2.73228
+Faculty Of Dentistry,Faculty Of Science,630.75,7.569,811.54,9.73848
+Faculty Of Dentistry,Faculty Of Nursing,358.81,4.30572,371.8,4.4616
+Faculty Medicine,Men Dorm,905.96,10.87152,905.96,10.87152
+Faculty Medicine,Faculty of Art and Design,1258.67,15.10404,1330.62,15.96744
+Faculty Medicine,Faculty of Engineering,1389.47,16.67364,1224.31,14.69172
+Faculty Medicine,Faculty of Food Industry,1037.89,12.45468,1037.89,12.45468
+Faculty Medicine,Auditorium 2,771.37,9.25644,704.43,8.45316
+Faculty Medicine,Faculty Administrative Science,735.01,8.82012,729.86,8.75832
+Faculty Medicine,Food Trucks,839.93,10.07916,873.97,10.48764
+Faculty Medicine,Faculty Of Science,827.77,9.93324,856.33,10.27596
+Faculty Medicine,Masjid,793.4,9.5208,752.99,9.03588
+Faculty Medicine,Faculty Of Pharmacy,397.94,4.77528,437.25,5.247
+Faculty Medicine,Girls Dorm,593.17,7.11804,593.17,7.11804
+Faculty Medicine,Uni Hospital,116.1,1.3932,116.1,1.3932
+Faculty Medicine,Faculty Of Nursing,179.81,2.15772,179.81,2.15772
+Faculty Medicine,Faculty Of Applied Health,516.73,6.20076,643.21,7.71852
+Faculty Medicine,Admission,605.8,7.2696,579.25,6.951
+Faculty Medicine,Faculty Of Physical Therapy,367.73,4.41276,393.55,4.7226
+Faculty Medicine,Faculty Of Dentistry,227.69,2.73228,227.69,2.73228
+Faculty Medicine,Faculty of Media,824.55,9.8946,752.74,9.03288
+Faculty Administrative Science,Faculty of Media,104.47,1.25364,104.47,1.25364
+Faculty Administrative Science,Faculty Medicine,735.01,8.82012,729.86,8.75832
+Faculty Administrative Science,Faculty Of Science,240,2.88,294.37,3.53244
+Faculty Administrative Science,Faculty Of Nursing,523.79,6.28548,628.41,7.54092
+Faculty Administrative Science,Faculty Of Pharmacy,318.62,3.82344,371.7,4.4604
+Faculty Administrative Science,Faculty Of Physical Therapy,620,7.44,622,7.464
+Faculty Administrative Science,Faculty of Engineering,492.5,5.91,661.46,7.93752
+Faculty Administrative Science,Faculty Of Applied Health,450,5.4,376.02,4.51224
+Faculty Administrative Science,Faculty of Dentistry,810,9.72,810,9.72
+Faculty Administrative Science,Admission,170.4,2.0448,170.4,2.0448
+Faculty Administrative Science,Men Dorm,352.75,4.233,352.75,4.233
+Faculty Administrative Science,Faculty of Food Industry,306.81,3.68172,309.88,3.71856
+Faculty Administrative Science,Auditorium 2,54.62,0.65544,54.62,0.65544
+Faculty Administrative Science,Masjid,260.32,3.12384,260.32,3.12384
+Faculty Administrative Science,Food Trucks,140,1.68,200.36,2.40432
+Faculty Administrative Science,Girls Dorm,641.81,7.70172,659.83,7.91796
+Faculty Administrative Science,Uni Hospital,580,6.96,580,6.96
+Men Dorm,Faculty of Media,315.55,3.7866,315.55,3.7866
+Men Dorm,Faculty Medicine,905.96,10.87152,905.96,10.87152
+Men Dorm,Faculty Of Science,387,4.644,387,4.644
+Men Dorm,Faculty Of Nursing,813.9,9.7668,813.9,9.7668
+Men Dorm,Faculty Of Pharmacy,604.05,7.2486,604.05,7.2486
+Men Dorm,Faculty of Food Industry,118,1.416,118,1.416
+Men Dorm,Faculty Of Physical Therapy,851,10.212,851,10.212
+Men Dorm,Faculty of Engineering,322.2,3.8664,322.2,3.8664
+Men Dorm,Faculty of Art and Design,191.38,2.29656,191.38,2.29656
+Men Dorm,Faculty of Dentistry,1045,12.54,1045,12.54
+Men Dorm,Admission,493.29,5.91948,493.29,5.91948
+Men Dorm,Faculty Administrative Science,352.75,4.233,352.75,4.233
+Faculty of Art and Design,Faculty of Food Industry,297.58,3.57096,297.58,3.57096
+Faculty of Art and Design,Men Dorm,191.38,2.29656,191.38,2.29656
+Faculty of Art and Design,Masjid,389.21,4.67052,389.21,4.67052
+Faculty of Art and Design,Faculty Of Science,498.91,5.98692,520.29,6.24348
+Faculty of Art and Design,Auditorium 2,484.16,5.80992,621.79,7.46148
+Faculty of Art and Design,Girls Dorm,880.08,10.56096,880.08,10.56096
+Faculty of Art and Design,Food Trucks,364.76,4.37712,418.47,5.02164
+Faculty of Art and Design,Faculty Of Applied Health,814.51,9.77412,824.16,9.88992
+Faculty of Art and Design,Faculty Of Physical Therapy,953.2,11.4384,962.19,11.54628
+Faculty of Art and Design,Faculty of Dentistry,1122.42,13.46904,1226.82,14.72184
+Faculty of Art and Design,Faculty Of Nursing,896.88,10.76256,896.88,10.76256
+Faculty of Art and Design,Uni Hospital,954.26,11.45112,954.26,11.45112
+Faculty of Art and Design,Faculty of Media,591.44,7.09728,554.08,6.64896
+Faculty of Art and Design,Faculty Medicine,1258.67,15.10404,1330.62,15.96744
+Faculty of Art and Design,Faculty Of Pharmacy,774.87,9.29844,774.87,9.29844
+Faculty of Art and Design,Faculty of Engineering,160.38,1.92456,160.38,1.92456
+Faculty of Food Industry,Faculty of Media,238.06,2.85672,322.9,3.8748
+Faculty of Food Industry,Faculty Medicine,1037.89,12.45468,1037.89,12.45468
+Faculty of Food Industry,Faculty Of Science,341.68,4.10016,538.2,6.4584
+Faculty of Food Industry,Faculty Of Nursing,708.74,8.50488,708.74,8.50488
+Faculty of Food Industry,Faculty Of Pharmacy,500.83,6.00996,500.83,6.00996
+Faculty of Food Industry,Men Dorm,118,1.416,118,1.416
+Faculty of Food Industry,Auditorium 2,254.73,3.05676,290,3.48
+Faculty of Food Industry,Food Trucks,176.29,2.11548,176.29,2.11548
+Faculty of Food Industry,Masjid,137.51,1.65012,137.51,1.65012
+Faculty of Food Industry,Girls Dorm,803,9.636,803,9.636
+Faculty of Food Industry,Uni Hospital,735.84,8.83008,735.84,8.83008
+Faculty of Food Industry,Faculty Of Physical Therapy,812.84,9.75408,750.7,9.0084
+Faculty of Food Industry,Faculty Of Applied Health,648.37,7.78044,710.44,8.52528
+Faculty of Food Industry,Faculty of Dentistry,1000.41,12.00492,908,10.896
+Faculty of Food Industry,Admission,361.69,4.34028,457.2,5.4864
+Faculty of Food Industry,Faculty Administrative Science,306.81,3.68172,309.88,3.71856
+Faculty of Food Industry,Faculty of Engineering,472.21,5.66652,414.55,4.9746
+Faculty of Food Industry,Faculty of Art and Design,297.58,3.57096,297.58,3.57096
